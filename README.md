@@ -1,5 +1,5 @@
-# xepr-server
-Backend server for the Xepr messaging app, built using Spring Boot.
+# messaging-app-server
+Backend server for a messaging app, built using Spring Boot.
 | Features |
 |:--|
 | User authentication via email |
