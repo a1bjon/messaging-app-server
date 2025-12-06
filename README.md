@@ -1,2 +1,2 @@
 # messaging-app-server
-Messaging app server built using Spring Boot.
+Basic REST messaging app server built using Spring Boot.
